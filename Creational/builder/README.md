@@ -4,7 +4,7 @@
 
 Separate the construction of a complex object step by step
 
-![alt text](.)
+![alt text](https://github.com/PR0Grammar/design-patterns/blob/main/Creational/builder/builder-struct.png)
 
 ## Motivation
 
@@ -21,7 +21,7 @@ You could in theory have a very large constructor that takes in the properties y
 
 If we take this further, suppose we have a set of products that we sell for an Order. We can optionally have a **Director** that builds the individual products of the Order for fufilment. For example, we might also sell Cake and Chicken Wings, which will have their own Builder classes. Once the items are built out, the Director can fulfil the order.
 
-![alt text](.)
+![alt text](https://github.com/PR0Grammar/design-patterns/blob/main/Creational/builder/builder.png)
 
 ## Applicability
 
