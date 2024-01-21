@@ -1,8 +1,10 @@
 # Design Patterns (GoF)
 
-- Patterns have four elements: pattern name, problem, solution, consequences
+## Overview
 
-The design pattern space
+Patterns have four elements: pattern name, problem, solution, consequences
+
+## The Design Pattern Space
 
 | Purpose | Scope | Design Patterns |
 | --- | --- | --- |
