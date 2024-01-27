@@ -8,7 +8,7 @@ Patterns have four elements: pattern name, problem, solution, consequences
 
 | Purpose | Scope | Design Patterns |
 | --- | --- | --- |
-| Creational | Class | Factory Method |
+| Creational | Class | [Factory Method](https://github.com/PR0Grammar/design-patterns/tree/main/Creational/factory_method) |
 | Creational | Object | [Abstract Factory](https://github.com/PR0Grammar/design-patterns/tree/main/Creational/abstract_factory), [Builder](https://github.com/PR0Grammar/design-patterns/tree/main/Creational/builder), Prototype, Singleton |
 | Structural | Class | Adapter (class) |
 | Structural | Object | Adapter (obj), Bridge, Comosite, Decorator, Facade, Flyweight, Proxy |
