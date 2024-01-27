@@ -10,8 +10,8 @@ Patterns have four elements: pattern name, problem, solution, consequences
 | --- | --- | --- |
 | Creational | Class | [Factory Method](https://github.com/PR0Grammar/design-patterns/tree/main/Creational/factory_method) |
 | Creational | Object | [Abstract Factory](https://github.com/PR0Grammar/design-patterns/tree/main/Creational/abstract_factory), [Builder](https://github.com/PR0Grammar/design-patterns/tree/main/Creational/builder), [Prototype](https://github.com/PR0Grammar/design-patterns/tree/main/Creational/prototype), [Singleton](https://github.com/PR0Grammar/design-patterns/tree/main/Creational/singleton) |
-| Structural | Class | Adapter (class) |
-| Structural | Object | Adapter (obj), Bridge, Comosite, Decorator, Facade, Flyweight, Proxy |
+| Structural | Class | [Adapter (class)](https://github.com/PR0Grammar/design-patterns/tree/main/Structural/adapter) |
+| Structural | Object | [Adapter (obj)](https://github.com/PR0Grammar/design-patterns/tree/main/Structural/adapter), [Bridge](https://github.com/PR0Grammar/design-patterns/tree/main/Structural/bridge), Comosite, Decorator, Facade, Flyweight, Proxy |
 | Behavioral | Class | Interpreter, Template Method |
 | Behavioral | Object | Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Visitor |
 
