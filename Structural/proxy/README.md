@@ -4,7 +4,7 @@
 
 The Proxy pattern provides a substitute or placeholder for another object. It controls access to the original object and can perform things before and/or after sending the request to the original object
 
-![alt text])(https://github.com/PR0Grammar/design-patterns/blob/main/Structural/proxy/proxy-struct.png)
+![alt text](https://github.com/PR0Grammar/design-patterns/blob/main/Structural/proxy/proxy-struct.png)
 
 ## Motivation
 
@@ -12,7 +12,7 @@ Imagine you had a database for your service that performs the usual CRUD operati
 
 This is where a Proxy can come in. A Proxy can expose the underlying database API, but prior to running the actual operations for the database, can perform sanitzation of queries and client authorizations.
 
-![alt text])(https://github.com/PR0Grammar/design-patterns/blob/main/Structural/proxy/proxy.png)
+![alt text](https://github.com/PR0Grammar/design-patterns/blob/main/Structural/proxy/proxy.png)
 
 ## Applicability
 
