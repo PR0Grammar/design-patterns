@@ -13,7 +13,7 @@ Patterns have four elements: pattern name, problem, solution, consequences
 | Structural | Class | [Adapter (class)](https://github.com/PR0Grammar/design-patterns/tree/main/Structural/adapter) |
 | Structural | Object | [Adapter (obj)](https://github.com/PR0Grammar/design-patterns/tree/main/Structural/adapter), [Bridge](https://github.com/PR0Grammar/design-patterns/tree/main/Structural/bridge), [Composite](https://github.com/PR0Grammar/design-patterns/tree/main/Structural/composite), [Decorator](https://github.com/PR0Grammar/design-patterns/tree/main/Structural/decorator), [Facade](https://github.com/PR0Grammar/design-patterns/tree/main/Structural/facade), [Flyweight](https://github.com/PR0Grammar/design-patterns/tree/main/Structural/flyweight), [Proxy](https://github.com/PR0Grammar/design-patterns/blob/main/Structural/proxy/README.md) |
 | Behavioral | Class | Interpreter, Template Method |
-| Behavioral | Object | Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Visitor |
+| Behavioral | Object | Chain of Responsibility, Command, Iterator, Mediator, Memento, [Observer](https://github.com/PR0Grammar/design-patterns/blob/main/Behavioral/observer/README.md), State, Strategy, Visitor |
 
 _Creational_ patterns concern the process of object creation
 _Structural_ patterns deal with the composition of classes or objects
