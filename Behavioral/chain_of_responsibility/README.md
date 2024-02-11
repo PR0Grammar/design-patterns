@@ -4,10 +4,13 @@
 
 Chain of Responisibility (CoR) is a design pattern that lets you forward requests down a chain of handlers. Each handler can determine whether or not to forward the request to the next handler.
 
+![alt text](https://github.com/PR0Grammar/design-patterns/blob/main/Behavioral/chain_of_responsibility/chain-of-responsibility-struct.png)
+
 ## Motivation
 
 Imagine you were designing a network routing service that forwards various network requests to a special handler. The last handler will ultimately provide the content for the request, but the request must pass a series of authorization and security tests to valdiate that the request is valid. 
 
+![alt text](https://github.com/PR0Grammar/design-patterns/blob/main/Behavioral/chain_of_responsibility/chain-of-responsibility.png)
 
 ## Applicability
 
